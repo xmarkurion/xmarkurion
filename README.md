@@ -1,9 +1,9 @@
 ### Hi there 👋
 👋 Hi, I’m @xmarkurion
 
-👀 I’m interested in Life check my website www.markurion.eu
+👀 I’m interested in programing, front-end, back-end, devops, for more check my website www.markurion.eu
 
-🌱 I’can do what you need just ask.
+🌱 I’can do what you need just ask. Design and produce soft on request.
 
 📫 Message my on my website if you want to contact me.
 
