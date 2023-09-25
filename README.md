@@ -2,11 +2,18 @@
 👋 Hi, I’m @xmarkurion
 
 👀 I’m interested in programing, front-end, back-end, devops, for more check my website www.markurion.eu
+Some of my projects that are publicly available:
+<br>
+- [Burns video title on top of provided video - VideoJavaRenamer](https://github.com/xmarkurion/videoJavaRenamer)
+- [Turn on you're mqtt device on windows start-up](https://github.com/xmarkurion/javaTrayMqtt)
+- [Imageboard images downloader Archived]([https://github.com/xmarkurion/javaTrayMqtt](https://github.com/xmarkurion/4chaninator)
+- [Lavravel image host & processor](https://github.com/xmarkurion/cdn)
+
+- There are more, i can only show them in person by request. Ask. 
 
 🌱 I’can do what you need just ask. Design and produce soft on request.
 
 📫 Message my on my website if you want to contact me.
-
 <!--
 **xmarkurion/xmarkurion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
