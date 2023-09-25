@@ -6,7 +6,7 @@ Some of my projects that are publicly available:
 <br>
 - [Burns video title on top of provided video - VideoJavaRenamer](https://github.com/xmarkurion/videoJavaRenamer)
 - [Turn on you're mqtt device on windows start-up](https://github.com/xmarkurion/javaTrayMqtt)
-- [Imageboard images downloader Archived]([https://github.com/xmarkurion/javaTrayMqtt](https://github.com/xmarkurion/4chaninator)
+- [Imageboard images downloader Archived](https://github.com/xmarkurion/javaTrayMqtt](https://github.com/xmarkurion/4chaninator)
 - [Lavravel image host & processor](https://github.com/xmarkurion/cdn)
 
 - There are more, i can only show them in person by request. Ask. 
