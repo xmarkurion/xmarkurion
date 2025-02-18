@@ -4,6 +4,7 @@
 👀 I’m interested in programing, front-end, back-end, devops, for more check my website www.markurion.eu
 Some of my projects that are publicly available:
 <br>
+-[JavaFx app - MQTT Automatic switch for Headphone DAC](https://github.com/xmarkurion/javaFx-tray-Mqtt-fiio_K11?tab=readme-ov-file)
 - [Burns video title on top of provided video - VideoJavaRenamer](https://github.com/xmarkurion/videoJavaRenamer)
 - [Turn on you're mqtt device on windows start-up](https://github.com/xmarkurion/javaTrayMqtt)
 - [Imageboard images downloader Archived](https://github.com/xmarkurion/4chaninator)
